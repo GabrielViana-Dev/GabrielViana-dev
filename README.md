@@ -7,8 +7,8 @@
 
 <div style="display: inline-block">
   <a href="https://github.com/GabrielViana-Dev">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=GabrielViana-Dev&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielViana-Dev&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielViana-Dev&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielViana-Dev&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
 </div>
   
 <br>
