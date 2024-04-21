@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Viana, Desenvolvedor e Analista de dados. 
 - 🚀 Apaixonado pela Ciência de Dados, estou sempre em busca de especialização nas principais tecnologias do ramo.
 - 📝 Atualmente estou cursando Sistema da Informação no Centro Universitário Una.
-- 💻 Atuo como Analista de Desenvolvimento de Sistemas no Centro Oftalmológico de Minas Gerais.
+- 💻 Atuo como Analista de Dados na empresa LeverPro.
 
 ##
 
